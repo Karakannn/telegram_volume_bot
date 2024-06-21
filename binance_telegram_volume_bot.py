@@ -9,7 +9,7 @@ import pytz
 import os
 
 # Telegram bot tokeninizi burada tanımlayın
-TELEGRAM_BOT_TOKEN = '7473494626:AAHItSYwmY7ty5wfCl1_iCJiQ6snHpdZVKs'
+TELEGRAM_BOT_TOKEN = 'BOT_TOKEN'
 
 # Chat ID'leri dosya adı
 CHAT_ID_FILE = 'chat_ids.txt'
